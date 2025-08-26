@@ -9,7 +9,7 @@ labels:
 
 **What is it?**  
 > Briefly explain what this resource is and why it’s awesome...
--
+- Shadcraft is a premium shadcn/ui Figma UI kit you can quickly and easily theme 
 
 ## **Which section does it belong to?**  
 - [ ] Libs and Components  
@@ -20,7 +20,7 @@ labels:
 - [ ] Websites and Portfolios Inspirations  
 - [ ] Platforms  
 - [ ] Ports  
-- [ ] Design System  
+- [x] Design System  
 - [ ] Boilerplates / Templates  
 
 **Additional details (optional)**  
@@ -47,3 +47,4 @@ Just a heads-up: no need to add a date — our system takes care of that automat
 ```
 
 Thank you for contributing to the awesome-shadcn/ui repository!
+
